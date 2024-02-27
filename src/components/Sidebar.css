@@ -1,0 +1,26 @@
+.sidebar {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #f8f9fa; /* Change as desired */
+    padding-top: 50px;
+}
+
+.navbar-nav {
+    width: 100%;
+}
+
+.nav-item {
+    padding: 10px 15px;
+}
+
+.nav-link {
+    color: #333; /* Change as desired */
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
